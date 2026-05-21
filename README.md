@@ -1,4 +1,19 @@
-# Qi-Guo
-Business Promotion Strategy Research for Bookstore in China
+# Qi-Guo — Business Promotion Strategy for Private Bookstores in China
 
-In recent years, there is more and more information that the private stores have went bankrupt. Compound business model of cultural product is the way out of private bookstores. Based on the previous study on consumer motivation theory, the paper uses the statistical method of factor analysis to establish reader’s demand motivation model of compound business model. And from the perspective of supply, the paper extracts four important dimension features of compound private bookstores. The comparison between the demand and the supply indicates that compound private bookstores have disadvantages, and the paper proposes constructive suggestions for the future development of the business model.
+Academic research paper analyzing how private bookstores in China can survive by adopting compound business models.
+
+## Abstract
+
+Private bookstores in China face severe market pressure, with many going bankrupt. This research explores whether compound business models, combining cultural products with supplementary revenue streams, can offer a viable path forward.
+
+Using factor analysis, the paper builds a reader demand motivation model and identifies four key dimensions of compound private bookstores. By comparing reader demand with bookstore supply across these dimensions, the research derives constructive suggestions for sustainable operation.
+
+## Contents
+
+- Reader demand motivation analysis via factor analysis
+- Four-dimension feature framework for compound bookstores
+- Demand vs. supply comparison and strategic recommendations
+
+## License
+
+All rights reserved.
